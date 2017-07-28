@@ -12,7 +12,6 @@
 
 ## Materialize-Css Projects 
 * [My Official Website](https://github.com/VRamazing/vramazing.github.io)
-* 
 
 ## Full Stack Projects
 * [Request Header Parser Microservice](https://github.com/VRamazing/RHP-MicroService)
