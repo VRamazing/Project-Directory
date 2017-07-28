@@ -4,6 +4,8 @@
  * [Error Login Panel](https://github.com/VRamazing/ErrorLoginPanel).
  * [Sabrang](https://github.com/VRamazing/sabrang2015)
  * [Restaurant Management System](https://github.com/VRamazing/restaurant)
+ * [Qlive Admin Panel](https://github.com/VRamazing/Qlive-Admin)
+ * [Operation Panel](https://github.com/VRamazing/Ops-Panel)
  
 ## Chrome Extensions
  * [Calculator Extension](https://github.com/VRamazing/Calc-Extension).
