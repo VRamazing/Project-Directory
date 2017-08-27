@@ -20,7 +20,6 @@
 * [Random Quote Generator Git](https://github.com/VRamazing/RandomQuoteGenerator) [(Live Link)](https://quotes-gen.herokuapp.com/)
 * [Time Stamp Microservice](https://github.com/VRamazing/timestampMicro) [(Live Link)](https://tstmp-micro.herokuapp.com/)
 * [Basic Login Registeration](https://github.com/VRamazing/Basic-Login-Registeration)
-* [Node.js Blog](https://github.com/VRamazing/Blog)
 * [E-Learning System](https://github.com/VRamazing/E-Learning-System)
 * [Basic Node Express](https://github.com/VRamazing/Node-Express-Basic)
 * [Time Logger](https://github.com/VRamazing/TimeLogger)
