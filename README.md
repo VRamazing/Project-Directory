@@ -6,11 +6,11 @@
  * [Restaurant Management System](https://github.com/VRamazing/restaurant)
  * [Qlive Admin Panel](https://github.com/VRamazing/Qlive-Admin)
  * [Operation Panel](https://github.com/VRamazing/Ops-Panel)
+ * [Wiki Viewer](https://github.com/VRamazing/WikiViewer)
  
-## Chrome Extensions
+## Chrome Extensions 
  * [Calculator Extension](https://github.com/VRamazing/Calc-Extension).
  * [Random Quote Extension](https://github.com/VRamazing/Qt-Extension)
- * [Weather Extension](https://github.com/VRamazing/Weather-Extension)
 
 ## Materialize-Css Projects 
 * [My Official Website](https://github.com/VRamazing/vramazing.github.io)
@@ -22,14 +22,14 @@
 * [Basic Login Registeration](https://github.com/VRamazing/Basic-Login-Registeration)
 * [E-Learning System](https://github.com/VRamazing/E-Learning-System)
 * [Basic Node Express](https://github.com/VRamazing/Node-Express-Basic)
-* [Time Logger](https://github.com/VRamazing/TimeLogger)
+* [Password Validation](https://github.com/VRamazing/passwordValidation)
+
 
 
 ## Python Projects
 * [Practice Python repo](https://github.com/VRamazing/PythonPrograms)
 * [Terminal Blog](https://github.com/VRamazing/Terminal-Blog)
 * [Web Scrapping](https://github.com/VRamazing/Edu-Goriila)
-* [Data Analysis and Prediction](https://github.com/VRamazing/Dex)
 
 ## Unity 3d Projects
 * [Breakout Game](https://github.com/VRamazing/BreakoutGame)
@@ -40,3 +40,10 @@
 
 ## D3.js Projects
 *Coming Soon*
+
+## Angular 4.js Projects
+*Coming Soon*
+
+## Machine Learning/Data Science Projects
+*Coming Soon*
+
