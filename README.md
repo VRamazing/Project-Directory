@@ -42,6 +42,6 @@
 * [Pong](https://github.com/VRamazing/Pong2D)
 
 ## Indian Game Project - An Open Source Game Dev Organization by me
-* [igameproject](https://githib.com/igameproject)
+* [igameproject](https://github.com/igameproject)
 
 
