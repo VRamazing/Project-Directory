@@ -7,6 +7,12 @@
  * [Qlive Admin Panel](https://github.com/VRamazing/Qlive-Admin)
  * [Operation Panel](https://github.com/VRamazing/Ops-Panel)
  * [Wiki Viewer](https://github.com/VRamazing/WikiViewer)
+ * [Pomodoro Timer](https://github.com/VRamazing/PomodoroTimer)
+ * [Twitch TV Remote](https://github.com/VRamazing/Twitch-Tv-Remote)
+
+## Vue js Projects
+ * [Markdown Previewer](https://github.com/VRamazing/Markdown-Previewer)
+ 
  
 ## Chrome Extensions 
  * [Calculator Extension](https://github.com/VRamazing/Calc-Extension).
@@ -20,11 +26,22 @@
 * [Random Quote Generator Git](https://github.com/VRamazing/RandomQuoteGenerator) [(Live Link)](https://quotes-gen.herokuapp.com/)
 * [Time Stamp Microservice](https://github.com/VRamazing/timestampMicro) [(Live Link)](https://tstmp-micro.herokuapp.com/)
 * [Password Validation](https://github.com/VRamazing/passwordValidation)
+* [User Story](https://github.com/VRamazing/UserStory)
+* [Flask Blog](https://github.com/VRamazing/Flask-Blog)
+* [Basic Login System](https://github.com/VRamazing/Basic-User-Login)
+* [Express Basic](https://github.com/VRamazing/Node-Express-Basic)
 
 ## Python Projects
 * [Practice Python repo](https://github.com/VRamazing/PythonPrograms)
 * [Terminal Blog](https://github.com/VRamazing/Terminal-Blog)
 * [Web Scrapping](https://github.com/VRamazing/Edu-Goriila)
+* [Web Scanner](https://github.com/VRamazing/Website-Scanner)
 
+## Games
+* [Breakout](https://github.com/VRamazing/breakout-atari)
+* [Pong](https://github.com/VRamazing/Pong2D)
+
+## Indian Game Project - An Open Source Game Dev Organization by me
+* [igameproject](https://githib.com/igameproject)
 
 
