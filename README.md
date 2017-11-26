@@ -12,6 +12,8 @@
 
 ## Vue js Projects
  * [Markdown Previewer](https://github.com/VRamazing/Markdown-Previewer)
+ * [Vue Blog](https://github.com/VRamazing/vue-firebase-blog)
+ * [Basic Vuex Stateful App](https://github.com/VRamazing/vuex)
  
  
 ## Chrome Extensions 
@@ -41,7 +43,7 @@
 * [Breakout](https://github.com/VRamazing/breakout-atari)
 * [Pong](https://github.com/VRamazing/Pong2D)
 
-## Indian Game Project - An Open Source Game Dev Organization by me
+## Indian Game Project - An Open Source Game Dev Organization founded by myself
 * [igameproject](https://github.com/igameproject)
 
 
