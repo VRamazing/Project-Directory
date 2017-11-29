@@ -9,6 +9,7 @@
  * [Wiki Viewer](https://github.com/VRamazing/WikiViewer)
  * [Pomodoro Timer](https://github.com/VRamazing/PomodoroTimer)
  * [Twitch TV Remote](https://github.com/VRamazing/Twitch-Tv-Remote)
+ * [Igameproject](https://github.com/igameproject/igameproject.github.io)
 
 ## Vue js Projects
  * [Markdown Previewer](https://github.com/VRamazing/Markdown-Previewer)
@@ -40,8 +41,14 @@
 * [Web Scanner](https://github.com/VRamazing/Website-Scanner)
 
 ## Games
-* [Breakout](https://github.com/VRamazing/breakout-atari)
+* [Breakout](https://github.com/igameproject/Breakout)
 * [Pong](https://github.com/VRamazing/Pong2D)
+* [Space Invaders](https://github.com/igameproject/spaceInvaders)
+* [Snake](https://github.com/igameproject/snake2d)
+* [Dungeon Warrior](https://github.com/igameproject/DungeonWarrior)
+* [Turbo Racer](https://github.com/igameproject/Turbo-Racer)
+* [Tennis](https://github.com/igameproject/tennis)
+* [Memory Game](https://github.com/igameproject/Memory-Game)
 
 ## Indian Game Project - An Open Source Game Dev Organization founded by myself
 * [igameproject](https://github.com/igameproject)
