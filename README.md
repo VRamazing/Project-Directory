@@ -15,6 +15,10 @@
  * [Markdown Previewer](https://github.com/VRamazing/Markdown-Previewer)
  * [Vue Blog](https://github.com/VRamazing/vue-firebase-blog)
  * [Basic Vuex Stateful App](https://github.com/VRamazing/vuex)
+ * [Meetup Application](https://github.com/VRamazing/vuetify-meetup)
+ 
+## React js Projects
+ * [React Blog](https://github.com/VRamazing/react-blog)
  
  
 ## Chrome Extensions 
@@ -28,7 +32,7 @@
 * [Request Header Parser Microservice](https://github.com/VRamazing/RHP-MicroService) [(Live Link)](https://rhpmc.herokuapp.com/)
 * [Random Quote Generator Git](https://github.com/VRamazing/RandomQuoteGenerator) [(Live Link)](https://quotes-gen.herokuapp.com/)
 * [Time Stamp Microservice](https://github.com/VRamazing/timestampMicro) [(Live Link)](https://tstmp-micro.herokuapp.com/)
-* [Password Validation](https://github.com/VRamazing/passwordValidation)
+* [Password Validation](https://github.com/VRamazing/Pazzwrd)
 * [User Story](https://github.com/VRamazing/UserStory)
 * [Flask Blog](https://github.com/VRamazing/Flask-Blog)
 * [Basic Login System](https://github.com/VRamazing/Basic-User-Login)
@@ -39,6 +43,7 @@
 * [Terminal Blog](https://github.com/VRamazing/Terminal-Blog)
 * [Web Scrapping](https://github.com/VRamazing/Edu-Goriila)
 * [Web Scanner](https://github.com/VRamazing/Website-Scanner)
+* [Social Network  Analysis](https://github.com/VRamazing/TweapyAnalysis)
 
 ## Games
 * [Breakout](https://github.com/igameproject/Breakout)
@@ -50,6 +55,12 @@
 * [Tennis](https://github.com/igameproject/tennis)
 * [Memory Game](https://github.com/igameproject/Memory-Game)
 * [Line Ball](https://github.com/igameproject/line-ball)
+
+## D3 js
+* [Cloropleth US County](https://github.com/VRamazing/CloroplethUS)
+* [Interactive Visualization](https://github.com/VRamazing/InteractiveViz)
+* [Sankey Chart F1](https://github.com/VRamazing/sankeyF1)
+* [Game of Thrones Heat Map](https://github.com/VRamazing/GameofViz)
 
 ## Indian Game Project - An Open Source Game Dev Organization founded by myself
 * [igameproject](https://github.com/igameproject)
