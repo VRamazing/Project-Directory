@@ -56,11 +56,6 @@
 * [Memory Game](https://github.com/igameproject/Memory-Game)
 * [Line Ball](https://github.com/igameproject/line-ball)
 
-## D3 js
-* [Cloropleth US County](https://github.com/VRamazing/CloroplethUS)
-* [Interactive Visualization](https://github.com/VRamazing/InteractiveViz)
-* [Sankey Chart F1](https://github.com/VRamazing/sankeyF1)
-* [Game of Thrones Heat Map](https://github.com/VRamazing/GameofViz)
 
 ## Indian Game Project - An Open Source Game Dev Organization founded by myself
 * [igameproject](https://github.com/igameproject)
