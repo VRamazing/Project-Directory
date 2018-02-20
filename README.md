@@ -43,7 +43,6 @@
 * [Terminal Blog](https://github.com/VRamazing/Terminal-Blog)
 * [Web Scrapping](https://github.com/VRamazing/Edu-Goriila)
 * [Web Scanner](https://github.com/VRamazing/Website-Scanner)
-* [Social Network  Analysis](https://github.com/VRamazing/TweapyAnalysis)
 
 ## Games
 * [Breakout](https://github.com/igameproject/Breakout)
